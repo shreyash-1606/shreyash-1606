@@ -12,8 +12,8 @@
 - 🔭 I’m currently working as a **Business Analyst at JSMIES**
 
 - 💬 Ask me about **SQL, Power BI, Tableau, Microsoft Excel, Machine Learning, Deep Learning, NLP, Computer Vision,Artificial Intelligence.**
-- 
-- 🚀 **Shreyash Shandilya: Expert Business Analyst & Data Enthusiast**
+
+🚀 **Shreyash Shandilya: Expert Business Analyst & Data Enthusiast**
 
 Passionate about unraveling insights from data and solving complex problems, I am Shreyash Shandilya, an accomplished Business Analyst with a knack for transforming raw data into actionable strategies. My journey into the realm of data analysis was ignited by my fascination with how past data can be leveraged for insightful forecasting – a passion that blossomed from my early days in share market analysis.
 
