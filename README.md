@@ -1,6 +1,21 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ![logo](https://github.com/shreyash-1606/shreyash-1606/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Shreyash Shandilya</h1>
 <h3 align="center">An Expert Business Analyst from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyash-1606&label=Profile%20views&color=e6820f&style=plastic" alt="shreyash-1606" /> </p>
+
+
+- 🔭 I’m currently working as a **Business Analyst at JSMIES**
+
+- 💬 Ask me about **SQL, Power BI, Tableau, Microsoft Excel, Machine Learning, Deep Learning, NLP, Computer Vision,Artificial Intelligence.**
+
+- 📫 How to reach me **shreyashatwork@gmail.com**
+
+- ⚡ Fun fact **Every day, humans generate around 2.5 quintillion bytes of data. For a business analyst, it's like diving into a treasure trove, deciphering the stories hidden within the numbers, and playing the role of a detective to unlock the secrets of business success!**
 
 
 
@@ -23,3 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash-1606&show_icons=true&locale=en" alt="shreyash-1606" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash-1606&" alt="shreyash-1606" /></p>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
