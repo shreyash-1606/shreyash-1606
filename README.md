@@ -12,6 +12,24 @@
 - 🔭 I’m currently working as a **Business Analyst at JSMIES**
 
 - 💬 Ask me about **SQL, Power BI, Tableau, Microsoft Excel, Machine Learning, Deep Learning, NLP, Computer Vision,Artificial Intelligence.**
+- 
+- 🚀 **Shreyash Shandilya: Expert Business Analyst & Data Enthusiast**
+
+Passionate about unraveling insights from data and solving complex problems, I am Shreyash Shandilya, an accomplished Business Analyst with a knack for transforming raw data into actionable strategies. My journey into the realm of data analysis was ignited by my fascination with how past data can be leveraged for insightful forecasting – a passion that blossomed from my early days in share market analysis.
+
+🔍 **Unraveling Insights, Driving Success**
+
+Armed with a robust toolkit including Power BI, Excel, Tableau, SQL, and Python for exploratory data analysis (EDA), I employ a strategic "business solver" approach to dissect challenges and uncover opportunities within datasets. Whether it's deciphering market trends, optimizing processes, or fine-tuning investment decisions, my analytical prowess has earned recognition as the top analyst at Money Maker Research Ltd. and as the distinguished Business Analyst of the Year 2023 at JSMIES.
+
+📊 **Crafting Strategies, Seizing Opportunities**
+
+My journey is characterized by a relentless pursuit of excellence, where each dataset is a canvas and every analysis is a masterpiece in problem-solving. From identifying patterns to crafting predictive models, I thrive on the thrill of transforming data into actionable insights that drive tangible results. With an innate ability to navigate the complexities of data science, I stand poised to tackle any challenge head-on, armed with expertise, innovation, and a steadfast commitment to excellence.
+
+💼 **Empowering Organizations, Elevating Performance**
+
+As an expert in my field, I bring a blend of technical acumen, strategic thinking, and a passion for continuous learning to every project I undertake. Whether it's optimizing operations, enhancing decision-making processes, or unlocking new avenues for growth, I am dedicated to empowering organizations to harness the full potential of their data assets. With a proven track record of success and an insatiable appetite for innovation, I am poised to lead organizations into a future defined by data-driven excellence.
+
+Let's connect and embark on a journey to transform data into decisive action, driving unparalleled success in the ever-evolving landscape of business analytics.
 
 - 📫 How to reach me **shreyashatwork@gmail.com**
 
@@ -19,7 +37,6 @@
 
 
 
-<p align="left" margin="200px"> <img src="https://komarev.com/ghpvc/?username=shreyash-1606&label=Profile%20views&color=0e75b6&style=flat" alt="shreyash-1606" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyash-1606" alt="shreyash-1606" /></a> </p>
 
