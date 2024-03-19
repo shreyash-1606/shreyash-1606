@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/shreyash-1606/shreyash-1606/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shreyash Shandilya</h1>
 <h3 align="center">An Expert Business Analyst from India</h3>
 
