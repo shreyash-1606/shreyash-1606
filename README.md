@@ -2,12 +2,13 @@
 <h1 align="center">Hi 👋, I'm Shreyash Shandilya</h1>
 <h3 align="center">An Expert Business Analyst from India</h3>
 
-<img align="right" alt="Analysis" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyash-1606&label=Profile%20views&color=0e75b6&style=flat" alt="shreyash-1606" /> </p>
+
+<p align="left" margin="200px"> <img src="https://komarev.com/ghpvc/?username=shreyash-1606&label=Profile%20views&color=0e75b6&style=flat" alt="shreyash-1606" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyash-1606" alt="shreyash-1606" /></a> </p>
 
+<img align="right" alt="Analysis" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif" justify-content="space-between">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/shreyash-shandilya-1026139b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shreyash-shandilya-1026139b" height="30" width="40" /></a>
