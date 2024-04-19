@@ -1,21 +1,13 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-![logo](https://github.com/shreyash-1606/shreyash-1606/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
-
 <h1 align="center">Hi 👋, I'm Shreyash Shandilya</h1>
-<h3 align="center">An Expert Business Analyst from India</h3>
+<h3 align="center">An Expert Business Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyash-1606&label=Profile%20views&color=e6820f&style=plastic" alt="shreyash-1606" /> </p>
+**🚀 Shreyash Shandilya: Expert Business Data Analyst & Data Enthusiast**
 
-
-**🚀 Shreyash Shandilya: Expert Business Analyst & Data Enthusiast**
-
-💬 Ask me about **SQL, Power BI, Tableau, Microsoft Excel, Machine Learning, Deep Learning, NLP, Computer Vision,Artificial Intelligence.**
+💬 Ask me about **SQL, Power BI, Tableau, Advance Microsoft Excel, Machine Learning, Deep Learning, NLP, Computer Vision,Artificial Intelligence.**
 
 Currently working as a **Business Analyst at JSMIES**
 
-**🎓 Trainer Extraordinaire: Equipping 300+ Professionals with Business Analysis Mastery**
+**🎓 Trainer Extraordinaire: Equipping 500+ Professionals with Business Analysis Mastery**
 
 Passionate about unraveling insights from data and solving complex problems, I am Shreyash Shandilya, an accomplished Business Analyst with a knack for transforming raw data into actionable strategies. My journey into the realm of data analysis was ignited by my fascination with how past data can be leveraged for insightful forecasting – a passion that blossomed from my early days in share market analysis.
 
@@ -40,7 +32,6 @@ Let's connect and embark on a journey to transform data into decisive action, dr
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyash-1606" alt="shreyash-1606" /></a> </p>
 
 <img align="right" alt="Analysis" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif" justify-content="space-between">
 <h3 align="left">Connect with me:</h3>
@@ -52,11 +43,8 @@ Let's connect and embark on a journey to transform data into decisive action, dr
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyash-1606&show_icons=true&locale=en&layout=compact" alt="shreyash-1606" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash-1606&show_icons=true&locale=en" alt="shreyash-1606" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash-1606&" alt="shreyash-1606" /></p>
 
 
 <!--horizontal divider(gradiant)-->
